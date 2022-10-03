@@ -1,0 +1,48 @@
+{
+	"storyName": "All You can eat buffet",
+	"hideFreeplay": false,
+	"weekBackground": "buffet",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Fine-Dining",
+			"gfBuffet1",
+			[
+				235,
+				73,
+				113
+			]
+		],
+		[
+			"Dinner-Theater",
+			"gfBuffet2",
+			[
+				235,
+				73,
+				113
+			]
+		],
+		[
+			"Wafer-Thin",
+			"gfBuffet3",
+			[
+				235,
+				73,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Buffet Week"
+}
