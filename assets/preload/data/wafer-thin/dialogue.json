@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet",
+			"boxState": "normal",
+			"expression": "GFBuffet3-1",
+			"text": "Hmmph... This food is so good! I could just keep eating more and more and-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfbuffet",
+			"boxState": "normal",
+			"expression": "BFBuffet3-1",
+			"text": "Boop beep bop?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet",
+			"boxState": "normal",
+			"expression": "GFBuffet3-2",
+			"text": "Pssh! I'll be fine, what's one more plate, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfbuffet",
+			"boxState": "normal",
+			"expression": "BFBuffet3-2",
+			"text": "Skedoo bop beep boo-bop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet",
+			"boxState": "normal",
+			"expression": "GFBuffet3-3",
+			"text": "Explode? What, like, literally pop? Don't be ridiculous, you know that could never really happen!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfbuffet",
+			"boxState": "normal",
+			"expression": "BFBuffet3-3",
+			"text": "Bop..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet",
+			"boxState": "normal",
+			"expression": "GFBuffet3-4",
+			"text": "(But, I gotta say... I'd be lying to myself if I said I wasn't way too full...)"
+		}
+	]
+}

@@ -2504,7 +2504,7 @@
 		"needsVoices": false,
 		"stage": "buffetStage",
 		"validScore": true,
-		"speed": 2,
+		"speed": 2.3,
 		"bpm": 80
 	}
 }

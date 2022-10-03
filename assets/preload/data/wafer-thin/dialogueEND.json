@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet",
+			"boxState": "normal",
+			"expression": "GFBuffet4-1",
+			"text": "Uunnhh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfbuffet",
+			"boxState": "normal",
+			"expression": "BFBuffet4-1",
+			"text": "B-bop?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet",
+			"boxState": "normal",
+			"expression": "GFBuffet4-2",
+			"text": "Yeah... I'm alright. Stings a bit, but I'd like to think I can handle a lil' bruise."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet",
+			"boxState": "normal",
+			"expression": "GFBuffet4-3",
+			"text": "Can't say the same for my dress..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfbuffet",
+			"boxState": "normal",
+			"expression": "BFBuffet4-2",
+			"text": "Skeeop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet",
+			"boxState": "normal",
+			"expression": "GFBuffet4-4",
+			"text": "You don't have to carry me home, but if you're offering..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbfbuffet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "tha-thump"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbfbuffet",
+			"boxState": "normal",
+			"expression": "GFBuffet5",
+			"text": "It's gonna be a long night..."
+		}
+	]
+}
