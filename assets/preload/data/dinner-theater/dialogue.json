@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "GFBuffet2-1",
+			"text": "mmm! Mmm!! That was delicious!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet"
+		},
+		{
+			"expression": "BFBuffet2-1",
+			"text": "Boop...?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfbuffet"
+		},
+		{
+			"expression": "GFBuffet2-2",
+			"text": "Oh! And your rapping was great, babe! As always~",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet"
+		},
+		{
+			"expression": "BFBuffet2-2",
+			"text": "Beep beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfbuffet"
+		},
+		{
+			"expression": "GFBuffet2-3",
+			"text": "Lets do another! I'm starting to get in the zone here!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet"
+		},
+		{
+			"expression": "BFBuffet2-3",
+			"text": "Skadoop Bop?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfbuffet"
+		},
+		{
+			"expression": "GFBuffet2-4",
+			"text": "Hah... Yeah, its probably the food! Can't remember the last time I felt so pumped up and full of energy!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet"
+		},
+		{
+			"expression": "BFBuffet2-4",
+			"text": "Skoop beep beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfbuffet"
+		}
+	]
+}
