@@ -1,1 +1,19 @@
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Crowd1.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crowd10000" x="10" y="10" width="1667" height="788"/>
+	<SubTexture name="Crowd10001" x="10" y="10" width="1667" height="788"/>
+	<SubTexture name="Crowd10002" x="1687" y="10" width="1659" height="787" frameX="-4" frameY="-1" frameWidth="1667" frameHeight="788"/>
+	<SubTexture name="Crowd10003" x="1687" y="10" width="1659" height="787" frameX="-4" frameY="-1" frameWidth="1667" frameHeight="788"/>
+	<SubTexture name="Crowd10004" x="10" y="808" width="1658" height="782" frameX="-4" frameY="-6" frameWidth="1667" frameHeight="788"/>
+	<SubTexture name="Crowd10005" x="10" y="808" width="1658" height="782" frameX="-4" frameY="-6" frameWidth="1667" frameHeight="788"/>
+	<SubTexture name="Crowd10006" x="1678" y="808" width="1658" height="786" frameX="-4" frameY="-2" frameWidth="1667" frameHeight="788"/>
+	<SubTexture name="Crowd10007" x="1678" y="808" width="1658" height="786" frameX="-4" frameY="-2" frameWidth="1667" frameHeight="788"/>
+	<SubTexture name="Crowd10008" x="1678" y="808" width="1658" height="786" frameX="-4" frameY="-2" frameWidth="1667" frameHeight="788"/>
+	<SubTexture name="Crowd10009" x="1678" y="808" width="1658" height="786" frameX="-4" frameY="-2" frameWidth="1667" frameHeight="788"/>
+	<SubTexture name="Crowd10010" x="1678" y="808" width="1658" height="786" frameX="-4" frameY="-2" frameWidth="1667" frameHeight="788"/>
+	<SubTexture name="Crowd10011" x="1678" y="808" width="1658" height="786" frameX="-4" frameY="-2" frameWidth="1667" frameHeight="788"/>
+	<SubTexture name="Crowd10012" x="1678" y="808" width="1658" height="786" frameX="-4" frameY="-2" frameWidth="1667" frameHeight="788"/>
+	<SubTexture name="Crowd10013" x="1678" y="808" width="1658" height="786" frameX="-4" frameY="-2" frameWidth="1667" frameHeight="788"/>
+</TextureAtlas>
