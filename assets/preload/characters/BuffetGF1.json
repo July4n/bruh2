@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-28,
+				121
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Buffet_Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-29,
+				121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Buffet_Left"
+		},
+		{
+			"offsets": [
+				-31,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Buffet_Down"
+		},
+		{
+			"offsets": [
+				-24,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Buffet_Up"
+		},
+		{
+			"offsets": [
+				-28,
+				121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Buffet_Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfBuffet1",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gfBuffet1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		100
+	],
+	"camera_position": [
+		-120,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

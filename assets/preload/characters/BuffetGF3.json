@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-28,
+				121
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Burst_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				121
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Burst_Up_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				121
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Burst_Left_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				121
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Burst_Down_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				121
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Burst_Right_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				121
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Burst_Left_Rest",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				121
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Burst_Down_Rest",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				121
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Burst_Up_Rest",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				121
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Burst_Right_Rest",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				121
+			],
+			"anim": "strike",
+			"fps": 24,
+			"name": "Strike",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-18,
+				121
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "tease",
+			"indices": [],
+			"name": "Tease"
+		},
+		{
+			"offsets": [
+				2,
+				121
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pop",
+			"loop": false,
+			"name": "Boom"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfBuffet3",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gfBuffet3",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		76,
+		0
+	],
+	"camera_position": [
+		-210,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
