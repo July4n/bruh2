@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "GFBuffet1-1",
+			"text": "Thanks for taking me out tonight!",
+			"boxState": "normal",
+			"sound": "GFBuffet1-1",
+			"speed": 0.05,
+			"portrait": "gfbuffet"
+		},
+		{
+			"expression": "BFBuffet1-1",
+			"text": "Beep",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfbuffet"
+		},
+		{
+			"expression": "GFBuffet1-2",
+			"text": "The food here is great! I just can't put down these Croquettes!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet"
+		},
+		{
+			"expression": "BFBuffet1-2",
+			"text": "Boop bop?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfbuffet"
+		},
+		{
+			"expression": "GFBuffet1-3",
+			"text": "A duet? Sure!As long as you don't mind me eating while we do so! Hehe",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfbuffet"
+		}
+	]
+}
