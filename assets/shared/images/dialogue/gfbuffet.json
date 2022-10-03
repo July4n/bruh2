@@ -1,0 +1,206 @@
+{
+	"position": [
+		-50,
+		-140
+	],
+	"dialogue_pos": "left",
+	"scale": 0.75,
+	"image": "DialogueGFBuffet",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "GFBuffet1-1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BuffetGF1-1",
+			"idle_name": "BuffetGF1-10017"
+		},
+		{
+			"loop_offsets": [
+				10,
+				20
+			],
+			"anim": "GFBuffet1-2",
+			"idle_offsets": [
+				10,
+				20
+			],
+			"loop_name": "BuffetGF1-2",
+			"idle_name": "BuffetGF1-20017"
+		},
+		{
+			"loop_offsets": [
+				32,
+				12
+			],
+			"anim": "GFBuffet1-3",
+			"idle_offsets": [
+				32,
+				12
+			],
+			"loop_name": "BuffetGF1-3",
+			"idle_name": "BuffetGF1-30017"
+		},
+		{
+			"loop_offsets": [
+				-10,
+				12
+			],
+			"anim": "GFBuffet2-1",
+			"idle_offsets": [
+				-10,
+				12
+			],
+			"loop_name": "BuffetGF2-1",
+			"idle_name": "BuffetGF2-10017"
+		},
+		{
+			"loop_offsets": [
+				2,
+				24
+			],
+			"anim": "GFBuffet2-2",
+			"idle_offsets": [
+				2,
+				24
+			],
+			"loop_name": "BuffetGF2-2",
+			"idle_name": "BuffetGF2-20017"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				20
+			],
+			"anim": "GFBuffet2-3",
+			"idle_offsets": [
+				-4,
+				20
+			],
+			"loop_name": "BuffetGF2-3",
+			"idle_name": "BuffetGF2-30017"
+		},
+		{
+			"loop_offsets": [
+				-8,
+				17
+			],
+			"anim": "GFBuffet2-4",
+			"idle_offsets": [
+				-8,
+				17
+			],
+			"loop_name": "BuffetGF2-4",
+			"idle_name": "BuffetGF2-40017"
+		},
+		{
+			"loop_offsets": [
+				-10,
+				-4
+			],
+			"anim": "GFBuffet3-1",
+			"idle_offsets": [
+				-10,
+				-3
+			],
+			"loop_name": "BuffetGF3-1",
+			"idle_name": "BuffetGF3-10017"
+		},
+		{
+			"loop_offsets": [
+				3,
+				-5
+			],
+			"anim": "GFBuffet3-2",
+			"idle_offsets": [
+				3,
+				-5
+			],
+			"loop_name": "BuffetGF3-2",
+			"idle_name": "BuffetGF3-20017"
+		},
+		{
+			"loop_offsets": [
+				4,
+				-2
+			],
+			"anim": "GFBuffet3-3",
+			"idle_offsets": [
+				4,
+				-2
+			],
+			"loop_name": "BuffetGF3-3",
+			"idle_name": "BuffetGF3-30017"
+		},
+		{
+			"loop_offsets": [
+				19,
+				16
+			],
+			"anim": "GFBuffet3-4",
+			"idle_offsets": [
+				19,
+				16
+			],
+			"loop_name": "BuffetGF3-4",
+			"idle_name": "BuffetGF3-40017"
+		},
+		{
+			"loop_offsets": [
+				-34,
+				-1
+			],
+			"anim": "GFBuffet4-1",
+			"idle_offsets": [
+				-34,
+				-1
+			],
+			"loop_name": "BuffetGF4-1",
+			"idle_name": "BuffetGF4-10017"
+		},
+		{
+			"loop_offsets": [
+				-30,
+				-9
+			],
+			"anim": "GFBuffet4-2",
+			"idle_offsets": [
+				-30,
+				-9
+			],
+			"loop_name": "BuffetGF4-2",
+			"idle_name": "BuffetGF4-20017"
+		},
+		{
+			"loop_offsets": [
+				-38,
+				-10
+			],
+			"anim": "GFBuffet4-3",
+			"idle_offsets": [
+				-38,
+				-10
+			],
+			"loop_name": "BuffetGF4-3",
+			"idle_name": "BuffetGF4-30017"
+		},
+		{
+			"loop_offsets": [
+				-40,
+				-10
+			],
+			"anim": "GFBuffet4-4",
+			"idle_offsets": [
+				-40,
+				-10
+			],
+			"loop_name": "BuffetGF4-4",
+			"idle_name": "BuffetGF4-40017"
+		}
+	]
+}

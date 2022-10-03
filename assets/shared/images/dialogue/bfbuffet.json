@@ -1,0 +1,154 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-290,
+		-120
+	],
+	"scale": 0.75,
+	"animations": [
+		{
+			"idle_offsets": [
+				-26,
+				-15
+			],
+			"anim": "BFBuffet1-1",
+			"loop_offsets": [
+				-26,
+				-16
+			],
+			"idle_name": "BuffetBFA-10017",
+			"loop_name": "BuffetBFA-1"
+		},
+		{
+			"idle_offsets": [
+				-30,
+				-17
+			],
+			"anim": "BFBuffet1-2",
+			"loop_offsets": [
+				-30,
+				-18
+			],
+			"idle_name": "BuffetBF1-20017",
+			"loop_name": "BuffetBF1-2"
+		},
+		{
+			"idle_offsets": [
+				-60,
+				-20
+			],
+			"anim": "BFBuffet2-1",
+			"loop_offsets": [
+				-60,
+				-20
+			],
+			"idle_name": "BuffetBF2-10017",
+			"loop_name": "BuffetBF2-1"
+		},
+		{
+			"idle_offsets": [
+				-58,
+				-12
+			],
+			"anim": "BFBuffet2-2",
+			"loop_offsets": [
+				-58,
+				-12
+			],
+			"idle_name": "BuffetBF2-20017",
+			"loop_name": "BuffetBF2-2"
+		},
+		{
+			"idle_offsets": [
+				-38,
+				-16
+			],
+			"anim": "BFBuffet2-3",
+			"loop_offsets": [
+				-38,
+				-16
+			],
+			"idle_name": "BuffetBF2-30017",
+			"loop_name": "BuffetBF2-3"
+		},
+		{
+			"idle_offsets": [
+				-40,
+				-20
+			],
+			"anim": "BFBuffet2-4",
+			"loop_offsets": [
+				-40,
+				-20
+			],
+			"idle_name": "BuffetBF2-40017",
+			"loop_name": "BuffetBF2-4"
+		},
+		{
+			"idle_offsets": [
+				-64,
+				-10
+			],
+			"anim": "BFBuffet3-1",
+			"loop_offsets": [
+				-64,
+				-10
+			],
+			"idle_name": "BuffetBF3-10017",
+			"loop_name": "BuffetBF3-1"
+		},
+		{
+			"idle_offsets": [
+				-60,
+				20
+			],
+			"anim": "BFBuffet3-2",
+			"loop_offsets": [
+				-60,
+				20
+			],
+			"idle_name": "BuffetBF3-20017",
+			"loop_name": "BuffetBF3-2"
+		},
+		{
+			"idle_offsets": [
+				-70,
+				-10
+			],
+			"anim": "BFBuffet3-3",
+			"loop_offsets": [
+				-70,
+				-10
+			],
+			"idle_name": "BuffetBF3-30017",
+			"loop_name": "BuffetBF3-3"
+		},
+		{
+			"idle_offsets": [
+				-220,
+				-16
+			],
+			"anim": "BFBuffet4-1",
+			"loop_offsets": [
+				-220,
+				-16
+			],
+			"idle_name": "BuffetBF4-10017",
+			"loop_name": "BuffetBF4-1"
+		},
+		{
+			"idle_offsets": [
+				-220,
+				-4
+			],
+			"anim": "BFBuffet4-2",
+			"loop_offsets": [
+				-220,
+				-4
+			],
+			"idle_name": "BuffetBF4-20017",
+			"loop_name": "BuffetBF4-2"
+		}
+	],
+	"image": "DialogueBFBuffet"
+}
