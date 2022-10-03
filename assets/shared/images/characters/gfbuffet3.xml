@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfbuffet3.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boom0000" x="5" y="5" width="634" height="590" frameX="-22" frameY="0" frameWidth="811" frameHeight="642"/>
+	<SubTexture name="Boom0001" x="644" y="5" width="659" height="593" frameX="-18" frameY="0" frameWidth="811" frameHeight="642"/>
+	<SubTexture name="Boom0002" x="1308" y="5" width="697" height="605" frameX="-14" frameY="0" frameWidth="811" frameHeight="642"/>
+	<SubTexture name="Boom0003" x="2010" y="5" width="735" height="618" frameX="-9" frameY="0" frameWidth="811" frameHeight="642"/>
+	<SubTexture name="Boom0004" x="2750" y="5" width="773" height="630" frameX="-5" frameY="0" frameWidth="811" frameHeight="642"/>
+	<SubTexture name="Boom0005" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0006" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0007" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0008" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0009" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0010" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0011" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0012" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0013" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0014" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0015" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0016" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Boom0017" x="3528" y="5" width="811" height="642"/>
+	<SubTexture name="Burst_Down_Alt0000" x="4344" y="5" width="575" height="571"/>
+	<SubTexture name="Burst_Down_Alt0001" x="4344" y="5" width="575" height="571"/>
+	<SubTexture name="Burst_Down_Alt0002" x="4924" y="5" width="575" height="568" frameX="0" frameY="0" frameWidth="575" frameHeight="571"/>
+	<SubTexture name="Burst_Down_Alt0003" x="4924" y="5" width="575" height="568" frameX="0" frameY="0" frameWidth="575" frameHeight="571"/>
+	<SubTexture name="Burst_Down_Alt0004" x="5504" y="5" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="571"/>
+	<SubTexture name="Burst_Down_Alt0005" x="5504" y="5" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="571"/>
+	<SubTexture name="Burst_Down_Alt0006" x="6084" y="5" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="571"/>
+	<SubTexture name="Burst_Down_Alt0007" x="6084" y="5" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="571"/>
+	<SubTexture name="Burst_Down_Alt0008" x="6664" y="5" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="571"/>
+	<SubTexture name="Burst_Down_Alt0009" x="6664" y="5" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="571"/>
+	<SubTexture name="Burst_Down_Rest0000" x="7244" y="5" width="575" height="568"/>
+	<SubTexture name="Burst_Down_Rest0001" x="7244" y="5" width="575" height="568"/>
+	<SubTexture name="Burst_Down_Rest0002" x="5" y="652" width="575" height="567" frameX="0" frameY="0" frameWidth="575" frameHeight="568"/>
+	<SubTexture name="Burst_Down_Rest0003" x="5" y="652" width="575" height="567" frameX="0" frameY="0" frameWidth="575" frameHeight="568"/>
+	<SubTexture name="Burst_Down_Rest0004" x="585" y="652" width="575" height="566" frameX="0" frameY="0" frameWidth="575" frameHeight="568"/>
+	<SubTexture name="Burst_Down_Rest0005" x="585" y="652" width="575" height="566" frameX="0" frameY="0" frameWidth="575" frameHeight="568"/>
+	<SubTexture name="Burst_Down_Rest0006" x="1165" y="652" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="568"/>
+	<SubTexture name="Burst_Down_Rest0007" x="1165" y="652" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="568"/>
+	<SubTexture name="Burst_Down_Rest0008" x="1745" y="652" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="568"/>
+	<SubTexture name="Burst_Down_Rest0009" x="1745" y="652" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="568"/>
+	<SubTexture name="Burst_Idle0000" x="2325" y="652" width="577" height="585"/>
+	<SubTexture name="Burst_Idle0001" x="2325" y="652" width="577" height="585"/>
+	<SubTexture name="Burst_Idle0002" x="2907" y="652" width="575" height="580" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Idle0003" x="2907" y="652" width="575" height="580" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Idle0004" x="3487" y="652" width="575" height="575" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Idle0005" x="3487" y="652" width="575" height="575" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Idle0006" x="4067" y="652" width="575" height="570" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Idle0007" x="4067" y="652" width="575" height="570" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Idle0008" x="4647" y="652" width="575" height="564" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Idle0009" x="4647" y="652" width="575" height="564" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Idle0010" x="5227" y="652" width="575" height="567" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Idle0011" x="5227" y="652" width="575" height="567" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Idle0012" x="4647" y="652" width="575" height="564" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Idle0013" x="4647" y="652" width="575" height="564" frameX="-2" frameY="0" frameWidth="577" frameHeight="585"/>
+	<SubTexture name="Burst_Left_Alt0000" x="5807" y="652" width="582" height="564" frameX="0" frameY="0" frameWidth="582" frameHeight="565"/>
+	<SubTexture name="Burst_Left_Alt0001" x="5807" y="652" width="582" height="564" frameX="0" frameY="0" frameWidth="582" frameHeight="565"/>
+	<SubTexture name="Burst_Left_Alt0002" x="6394" y="652" width="575" height="565" frameX="-7" frameY="0" frameWidth="582" frameHeight="565"/>
+	<SubTexture name="Burst_Left_Alt0003" x="6394" y="652" width="575" height="565" frameX="-7" frameY="0" frameWidth="582" frameHeight="565"/>
+	<SubTexture name="Burst_Left_Alt0004" x="6974" y="652" width="575" height="565" frameX="-7" frameY="0" frameWidth="582" frameHeight="565"/>
+	<SubTexture name="Burst_Left_Alt0005" x="7554" y="652" width="575" height="565" frameX="-7" frameY="0" frameWidth="582" frameHeight="565"/>
+	<SubTexture name="Burst_Left_Alt0006" x="5" y="1242" width="575" height="565" frameX="-7" frameY="0" frameWidth="582" frameHeight="565"/>
+	<SubTexture name="Burst_Left_Alt0007" x="5" y="1242" width="575" height="565" frameX="-7" frameY="0" frameWidth="582" frameHeight="565"/>
+	<SubTexture name="Burst_Left_Alt0008" x="585" y="1242" width="575" height="565" frameX="-7" frameY="0" frameWidth="582" frameHeight="565"/>
+	<SubTexture name="Burst_Left_Alt0009" x="585" y="1242" width="575" height="565" frameX="-7" frameY="0" frameWidth="582" frameHeight="565"/>
+	<SubTexture name="Burst_Left_Rest0000" x="1165" y="1242" width="579" height="565" frameX="0" frameY="0" frameWidth="579" frameHeight="571"/>
+	<SubTexture name="Burst_Left_Rest0001" x="1165" y="1242" width="579" height="565" frameX="0" frameY="0" frameWidth="579" frameHeight="571"/>
+	<SubTexture name="Burst_Left_Rest0002" x="1749" y="1242" width="578" height="565" frameX="-1" frameY="0" frameWidth="579" frameHeight="571"/>
+	<SubTexture name="Burst_Left_Rest0003" x="1749" y="1242" width="578" height="565" frameX="-1" frameY="0" frameWidth="579" frameHeight="571"/>
+	<SubTexture name="Burst_Left_Rest0004" x="2332" y="1242" width="576" height="565" frameX="-3" frameY="0" frameWidth="579" frameHeight="571"/>
+	<SubTexture name="Burst_Left_Rest0005" x="2332" y="1242" width="576" height="565" frameX="-3" frameY="0" frameWidth="579" frameHeight="571"/>
+	<SubTexture name="Burst_Left_Rest0006" x="2913" y="1242" width="575" height="571" frameX="-4" frameY="0" frameWidth="579" frameHeight="571"/>
+	<SubTexture name="Burst_Left_Rest0007" x="2913" y="1242" width="575" height="571" frameX="-4" frameY="0" frameWidth="579" frameHeight="571"/>
+	<SubTexture name="Burst_Left_Rest0008" x="3493" y="1242" width="575" height="564" frameX="-4" frameY="0" frameWidth="579" frameHeight="571"/>
+	<SubTexture name="Burst_Left_Rest0009" x="3493" y="1242" width="575" height="564" frameX="-4" frameY="0" frameWidth="579" frameHeight="571"/>
+	<SubTexture name="Burst_Right_Alt0000" x="4073" y="1242" width="575" height="565"/>
+	<SubTexture name="Burst_Right_Alt0001" x="4073" y="1242" width="575" height="565"/>
+	<SubTexture name="Burst_Right_Alt0002" x="4653" y="1242" width="575" height="565"/>
+	<SubTexture name="Burst_Right_Alt0003" x="4653" y="1242" width="575" height="565"/>
+	<SubTexture name="Burst_Right_Alt0004" x="5233" y="1242" width="575" height="565"/>
+	<SubTexture name="Burst_Right_Alt0005" x="5233" y="1242" width="575" height="565"/>
+	<SubTexture name="Burst_Right_Alt0006" x="5813" y="1242" width="575" height="565"/>
+	<SubTexture name="Burst_Right_Alt0007" x="5813" y="1242" width="575" height="565"/>
+	<SubTexture name="Burst_Right_Alt0008" x="6393" y="1242" width="575" height="565"/>
+	<SubTexture name="Burst_Right_Alt0009" x="6393" y="1242" width="575" height="565"/>
+	<SubTexture name="Burst_Right_Rest0000" x="6973" y="1242" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="574"/>
+	<SubTexture name="Burst_Right_Rest0001" x="6973" y="1242" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="574"/>
+	<SubTexture name="Burst_Right_Rest0002" x="7553" y="1242" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="574"/>
+	<SubTexture name="Burst_Right_Rest0003" x="7553" y="1242" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="574"/>
+	<SubTexture name="Burst_Right_Rest0004" x="5" y="1818" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="574"/>
+	<SubTexture name="Burst_Right_Rest0005" x="5" y="1818" width="575" height="565" frameX="0" frameY="0" frameWidth="575" frameHeight="574"/>
+	<SubTexture name="Burst_Right_Rest0006" x="585" y="1818" width="575" height="574"/>
+	<SubTexture name="Burst_Right_Rest0007" x="585" y="1818" width="575" height="574"/>
+	<SubTexture name="Burst_Right_Rest0008" x="1165" y="1818" width="575" height="564" frameX="0" frameY="0" frameWidth="575" frameHeight="574"/>
+	<SubTexture name="Burst_Right_Rest0009" x="1165" y="1818" width="575" height="564" frameX="0" frameY="0" frameWidth="575" frameHeight="574"/>
+	<SubTexture name="Burst_Up_Alt0000" x="1745" y="1818" width="575" height="564" frameX="-8" frameY="0" frameWidth="583" frameHeight="564"/>
+	<SubTexture name="Burst_Up_Alt0001" x="1745" y="1818" width="575" height="564" frameX="-8" frameY="0" frameWidth="583" frameHeight="564"/>
+	<SubTexture name="Burst_Up_Alt0002" x="2325" y="1818" width="577" height="564" frameX="-6" frameY="0" frameWidth="583" frameHeight="564"/>
+	<SubTexture name="Burst_Up_Alt0003" x="2325" y="1818" width="577" height="564" frameX="-6" frameY="0" frameWidth="583" frameHeight="564"/>
+	<SubTexture name="Burst_Up_Alt0004" x="2907" y="1818" width="583" height="564"/>
+	<SubTexture name="Burst_Up_Alt0005" x="2907" y="1818" width="583" height="564"/>
+	<SubTexture name="Burst_Up_Alt0006" x="3495" y="1818" width="581" height="564" frameX="-2" frameY="0" frameWidth="583" frameHeight="564"/>
+	<SubTexture name="Burst_Up_Alt0007" x="3495" y="1818" width="581" height="564" frameX="-2" frameY="0" frameWidth="583" frameHeight="564"/>
+	<SubTexture name="Burst_Up_Alt0008" x="4081" y="1818" width="581" height="564" frameX="-2" frameY="0" frameWidth="583" frameHeight="564"/>
+	<SubTexture name="Burst_Up_Alt0009" x="4081" y="1818" width="581" height="564" frameX="-2" frameY="0" frameWidth="583" frameHeight="564"/>
+	<SubTexture name="Burst_Up_Rest0000" x="4667" y="1818" width="575" height="577"/>
+	<SubTexture name="Burst_Up_Rest0001" x="4667" y="1818" width="575" height="577"/>
+	<SubTexture name="Burst_Up_Rest0002" x="5247" y="1818" width="575" height="572" frameX="0" frameY="0" frameWidth="575" frameHeight="577"/>
+	<SubTexture name="Burst_Up_Rest0003" x="5247" y="1818" width="575" height="572" frameX="0" frameY="0" frameWidth="575" frameHeight="577"/>
+	<SubTexture name="Burst_Up_Rest0004" x="5827" y="1818" width="575" height="568" frameX="0" frameY="0" frameWidth="575" frameHeight="577"/>
+	<SubTexture name="Burst_Up_Rest0005" x="5827" y="1818" width="575" height="568" frameX="0" frameY="0" frameWidth="575" frameHeight="577"/>
+	<SubTexture name="Burst_Up_Rest0006" x="6407" y="1818" width="575" height="564" frameX="0" frameY="0" frameWidth="575" frameHeight="577"/>
+	<SubTexture name="Burst_Up_Rest0007" x="6407" y="1818" width="575" height="564" frameX="0" frameY="0" frameWidth="575" frameHeight="577"/>
+	<SubTexture name="Burst_Up_Rest0008" x="6987" y="1818" width="575" height="564" frameX="0" frameY="0" frameWidth="575" frameHeight="577"/>
+	<SubTexture name="Burst_Up_Rest0009" x="6987" y="1818" width="575" height="564" frameX="0" frameY="0" frameWidth="575" frameHeight="577"/>
+	<SubTexture name="Strike0000" x="5" y="2400" width="621" height="564" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0001" x="5" y="2400" width="621" height="564" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0002" x="631" y="2400" width="621" height="565" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0003" x="631" y="2400" width="621" height="565" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0004" x="1257" y="2400" width="621" height="566" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0005" x="1257" y="2400" width="621" height="566" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0006" x="1883" y="2400" width="621" height="566" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0007" x="1883" y="2400" width="621" height="566" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0008" x="2509" y="2400" width="621" height="566" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0009" x="2509" y="2400" width="621" height="566" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0010" x="3135" y="2400" width="626" height="575" frameX="-13" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0011" x="3135" y="2400" width="626" height="575" frameX="-13" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0012" x="3766" y="2400" width="630" height="575" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0013" x="3766" y="2400" width="630" height="575" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0014" x="3766" y="2400" width="630" height="575" frameX="-18" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0015" x="4401" y="2400" width="626" height="575" frameX="-13" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0016" x="4401" y="2400" width="626" height="575" frameX="-13" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0017" x="5032" y="2400" width="637" height="574" frameX="-2" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0018" x="5032" y="2400" width="637" height="574" frameX="-2" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0019" x="5674" y="2400" width="638" height="580" frameX="-1" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0020" x="5674" y="2400" width="638" height="580" frameX="-1" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0021" x="6317" y="2400" width="639" height="574" frameX="0" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0022" x="6317" y="2400" width="639" height="574" frameX="0" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0023" x="6961" y="2400" width="639" height="580" frameX="0" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0024" x="6961" y="2400" width="639" height="580" frameX="0" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0025" x="5" y="2985" width="637" height="574" frameX="-2" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0026" x="647" y="2985" width="634" height="574" frameX="-5" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0027" x="1286" y="2985" width="634" height="590" frameX="-5" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0028" x="1286" y="2985" width="634" height="590" frameX="-5" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0029" x="1925" y="2985" width="634" height="587" frameX="-5" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0030" x="1925" y="2985" width="634" height="587" frameX="-5" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0031" x="1286" y="2985" width="634" height="590" frameX="-5" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0032" x="1286" y="2985" width="634" height="590" frameX="-5" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0033" x="2564" y="2985" width="634" height="590" frameX="-5" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Strike0034" x="2564" y="2985" width="634" height="590" frameX="-5" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Tease0000" x="1286" y="2985" width="634" height="590" frameX="0" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Tease0001" x="1286" y="2985" width="634" height="590" frameX="0" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Tease0002" x="2564" y="2985" width="634" height="590" frameX="0" frameY="0" frameWidth="648" frameHeight="590"/>
+	<SubTexture name="Tease0003" x="2564" y="2985" width="634" height="590" frameX="0" frameY="0" frameWidth="648" frameHeight="590"/>
+</TextureAtlas>

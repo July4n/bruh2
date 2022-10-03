@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfbuffet1.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Buffet_Down0000" x="20" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0001" x="20" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0002" x="540" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0003" x="540" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0004" x="1060" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0005" x="1060" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0006" x="1060" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0007" x="1060" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0008" x="1060" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0009" x="1060" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0010" x="1060" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0011" x="1060" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0012" x="1060" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Down0013" x="1060" y="20" width="500" height="564"/>
+	<SubTexture name="Buffet_Idle0000" x="1580" y="20" width="500" height="565"/>
+	<SubTexture name="Buffet_Idle0001" x="1580" y="20" width="500" height="565"/>
+	<SubTexture name="Buffet_Idle0002" x="2100" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Idle0003" x="2100" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Idle0004" x="2620" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Idle0005" x="2620" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Idle0006" x="3140" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Idle0007" x="3140" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Idle0008" x="3140" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Idle0009" x="3140" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Idle0010" x="3140" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Idle0011" x="3140" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Idle0012" x="3140" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Idle0013" x="3140" y="20" width="500" height="564" frameX="0" frameY="0" frameWidth="500" frameHeight="565"/>
+	<SubTexture name="Buffet_Left0000" x="20" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0001" x="20" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0002" x="540" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0003" x="540" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0004" x="1060" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0005" x="1060" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0006" x="1060" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0007" x="1060" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0008" x="1060" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0009" x="1060" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0010" x="1060" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0011" x="1060" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0012" x="1060" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Left0013" x="1060" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0000" x="1580" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0001" x="1580" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0002" x="2100" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0003" x="2100" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0004" x="2620" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0005" x="2620" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0006" x="2620" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0007" x="2620" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0008" x="2620" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0009" x="2620" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0010" x="2620" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0011" x="2620" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0012" x="2620" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Right0013" x="2620" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0000" x="3140" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0001" x="3140" y="605" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0002" x="20" y="1189" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0003" x="20" y="1189" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0004" x="540" y="1189" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0005" x="540" y="1189" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0006" x="540" y="1189" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0007" x="540" y="1189" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0008" x="540" y="1189" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0009" x="540" y="1189" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0010" x="540" y="1189" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0011" x="540" y="1189" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0012" x="540" y="1189" width="500" height="564"/>
+	<SubTexture name="Buffet_Up0013" x="540" y="1189" width="500" height="564"/>
+</TextureAtlas>
