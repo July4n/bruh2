@@ -24,7 +24,7 @@ class FlashingState extends MusicBeatState
 		add(bg);
 
 		warnText = new FlxText(0, 0, FlxG.width,
-			"Esto es bizarro y tiene luzes
+			"Esto es bizarro y tiene luzes,
                         PRESIONA A SI TE VALE VERGA;
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
