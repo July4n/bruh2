@@ -13,11 +13,9 @@ import flixel.util.FlxTimer;
 
 class FlashingState extends MusicBeatState
 {
-
-	public static var leftState:Bool = false
+	public static var leftState:Bool = false;
 
 	var warnText:FlxText;
-
 	override function create()
 	{
 		super.create();
@@ -26,9 +24,8 @@ class FlashingState extends MusicBeatState
 		add(bg);
 
 		warnText = new FlxText(0, 0, FlxG.width,
-			"esto es muy Bizarro Y tiene Luces 
-                         PRESIONA A SI TE VALE VERGA",
-			32);
+			"Esto es bizarro y tiene luzes
+                        PRESIONA A SI TE VALE VERGA;
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
 		add(warnText);
