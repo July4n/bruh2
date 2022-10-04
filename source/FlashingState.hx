@@ -14,11 +14,7 @@ import flixel.util.FlxTimer;
 class FlashingState extends MusicBeatState
 {
 
-        blackScreen = new FlxSprite(0, 0).loadGraphic(Paths.image('lindo'));
-		add(blackScreen);
-	public static var leftState:Bool = false;
-       
-        }
+	public static var leftState:Bool = false
 
 	var warnText:FlxText;
 
